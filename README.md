@@ -5,6 +5,7 @@
 
 #### MVP模式
 >- [ThirtyInch：一个 MVP 模式库](https://github.com/grandcentrix/ThirtyInch)
+- [PerfectModel：MVP完美model实践](https://github.com/Bigmercu/PerfectModel)
 
 #### 插件化
 >- [Small：轻巧的跨平台插件化框架](https://github.com/mcxiaoke/Small)
