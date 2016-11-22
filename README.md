@@ -1,5 +1,10 @@
 # App开发框架
 >- [FastApp： 基于Fragment + RxJava + Retrofit2.0 + Glide + Realm](https://github.com/closedevice/FastApp)
+- [tray：代替SharedPreferences的多进程，多线程安全的轻量级数据存储库](https://github.com/grandcentrix/tray)
+- [AndBase: 包含App开发所需的所有基础模块](https://github.com/CraftsmenTech/AndBase)
+
+# App开发辅助工具
+>- [SQLiteOnWeb-Android: 可以在浏览器上查看项目中数据库中的数据](https://github.com/skyhacker2/SQLiteOnWeb-Android)
 
 # Model框架
 
@@ -15,6 +20,7 @@
 
 #### Rx系列
 >- [RxUnfurl：将输入的 url 地址变为简略预览模式](https://github.com/Schinizer/RxUnfurl)
+- [RxDownload：基于RxJava打造的下载工具, 支持多线程下载和断点续传, 智能判断是否支持断点续传等功能](https://github.com/ssseasonnn/RxDownload)
 
 #### 网络层
 >- [NoHttp：底层 OkHttp，与 RxJava 完美结合，比 Retrofit 更简单易用](https://github.com/yanzhenjie/NoHttp)
@@ -43,6 +49,7 @@
 
 #### 图片操作
 >- [ImageTransiton：圆形到矩形的转换操作](https://github.com/vikramkakkar/ImageTransition)
+- [BigImageViewer:  内存占用率极小的查看大图控件](https://github.com/Piasy/BigImageViewer)
 
 #### 文字操作
 >- [Elegant Underline：文字下划线](https://github.com/romainguy/elegant-underline)
