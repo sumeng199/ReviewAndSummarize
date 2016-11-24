@@ -55,8 +55,9 @@
 >- [Elegant Underline：文字下划线](https://github.com/romainguy/elegant-underline)
 - [icarus-android：丰富的文字编辑器](https://github.com/mr5/icarus-android)
 
-#### 选择弹框
->- [BottomSheetPickers：底部弹出日期、时间选择器](https://github.com/philliphsu/BottomSheetPickers)
+#### 弹框操作
+>- [dialogplus: 可拓展的Dialog方案](https://github.com/orhanobut/dialogplus)
+- [BottomSheetPickers：底部弹出日期、时间选择器](https://github.com/philliphsu/BottomSheetPickers)
 >- [NiftyDialogEffects：Dialog的各种打开动画](https://github.com/sd6352051/NiftyDialogEffects)
 
 #### 功能模块
