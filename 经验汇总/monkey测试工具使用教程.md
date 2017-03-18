@@ -4,7 +4,7 @@
 
 ## 基本cmd指令:
 ````python
-adb shell monkey -p com.xiaoyou.friends -v 20000 -s 11
+adb shell monkey -p <PackageName> -v 20000 -s 11
 ````
 >详解:
 - -p： 指定要测试的安卓程序包名
@@ -25,7 +25,7 @@ for /f "tokens=2" %a in ('adb shell ps ^|findstr "monkey" ') do adb shell kill %
 ````
 
 ## 其它参数:
->- **-port：** 为monkey开启专用端口。此时只monkey不会帮你乱点击，而此时你自己就是一只monkey了，在你乱点的时候，monkey会输出你点击后回馈的信息。如果你打完命令之后模拟器上没有启动你所要启动的包，你需要自己启动，但是你只能启动你-p中指定的那几个包。ctrl+c中断。
+- **-port：** 为monkey开启专用端口。此时只monkey不会帮你乱点击，而此时你自己就是一只monkey了，在你乱点的时候，monkey会输出你点击后回馈的信息。如果你打完命令之后模拟器上没有启动你所要启动的包，你需要自己启动，但是你只能启动你-p中指定的那几个包。ctrl+c中断。
 - **-s：** 随机数生成器的seed值。如果用相同的seed值再次运行monkey，它将生成相同的事件序列(相同数值执行的测试步骤一样)
 - **-pct-｛+事件类别｝｛+事件类别百分比｝：**
 用于指定每种类别事件的数目百分比（在Monkey事件序列中，该类事件数目占总事件数目的百分比）
